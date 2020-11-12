@@ -1,0 +1,3 @@
+(ns entrypoint)
+
+(println "foobar")
