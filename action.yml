@@ -1,0 +1,12 @@
+name: SynQL
+description: Sync your SQL files as views
+author: Tim Jäger
+
+# TODO: branding
+# TODO: inputs
+# TODO: outputs
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
